@@ -1,0 +1,7 @@
+{
+  "name": "uv",
+  "build": {
+    "dockerfile": "../docker/Dockerfile",
+    "context": ".."
+  }
+}
